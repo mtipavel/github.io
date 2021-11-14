@@ -1,4 +1,11 @@
-title: "Blending Convergent Encryptionand  Access  Control  Scheme  for  Achieving  A  Secure  and  StorageEfficient  Cloud"
-T. Islam, K. Lim, and D. Manivannan, “Blending Convergent Encryption and  Access  Control  Scheme  for  Achieving  A  Secure  and  Storage Efficient  Cloud,”  in Proc.  of  the  2020  IEEE17thAnnual  ConsumerCommunications   Networking Conference (CCNC), Jan. 2020, pp. 1–6
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/9045108'
-[pdf](http://academicpages.github.io/files/paper1.pdf)
+---
+title: "Paper Title Number 1"
+collection: publications
+permalink: /publication/2010-10-01-paper-title-number-1
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+date: 2010-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+[Download](http://academicpages.github.io/files/paper2.pdf)
+Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
